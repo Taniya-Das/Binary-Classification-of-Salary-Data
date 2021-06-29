@@ -7,8 +7,8 @@ Random Forest Classifier is used to classify the salary data.
 
 ## Data
 
-The [data](https://archive.ics.uci.edu/ml/datasets/adult) is downloaded from UCI Machine Learning Repository. The train data consists of 32561 entries and each entry has 15 features. Features are both nurmerical and categorical in type. 
-Target variable used to make predictions: "target" 
+The [data](https://archive.ics.uci.edu/ml/datasets/adult) is downloaded from UCI Machine Learning Repository. The train data consists of 32561 entries and each entry has 15 features. Features are both nurmerical and categorical in type.   
+Target variable: "target" 
 
 ## Reference
 
