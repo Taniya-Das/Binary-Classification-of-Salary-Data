@@ -1,4 +1,4 @@
-# Binary-Classification-of-Salary-Data
+# Binary Classification of Salary Data
 
 ---
 
